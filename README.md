@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @miladBann
-- 👀 I’m interested in finding a job as self taught software developer
-- 🌱 I’m currently learning javascript and java and already learned and mastered python
+- 👀 I’m interested in finding a job as a software developer
+- 🌱 I’m currently a Computer Science student and i have been a self-taught full stack developer for 4 years
 - 💞️ I’m looking to collaborate on some projects and hopefully find some job opportunities  
+- 💪 I'm fluent in programming with Python/C C++/Java/JavaScript/HTML/CSS/Json
 - 📫 my phone number: +972523543093
       my email: miladbannourah@outlook.com
 
