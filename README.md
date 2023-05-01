@@ -1,4 +1,4 @@
-👋 Hi, I'm Milad Bannourah! I'm a full stack developer with over 4 years of experience. I'm currently a Computer Science student with a strong background in Python, JavaScript, HTML, CSS, React.js, Node.js, PostgreSQL, JSON, and C++.
+👋 Hi, I'm Milad Bannourah! I'm a Full Stack Software Developer with over 4 years of experience. I'm currently a Computer Science student with a strong background in Python, JavaScript, HTML, CSS, React.js, Node.js, PostgreSQL, JSON, and C++.
 
 🔭 My main focus is on building user-friendly, scalable web applications that solve real-world problems. I've worked on a variety of projects, ranging from small-scale applications to enterprise-level systems.
 
