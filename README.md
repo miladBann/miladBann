@@ -44,7 +44,6 @@ As a full-stack web developer, I am deeply committed to creating web application
 
 ## 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miladBann&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green&hide=issues,contribs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladBann&exclude_repo=FWHW1repo1,FrameWork,intro-to-apis-node,FES_first_project,HTML-Crash-Course&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
 </p>
 
