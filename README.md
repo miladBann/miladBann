@@ -2,6 +2,7 @@
 
 
 ### Thank you for stumbling onto my page! 
+### Make sure to check  my portfolio <a href="https://milad-bannourah-portfolio.vercel.app/">here<a/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:325px;height:auto;padding-left:20px;"/>
 
